@@ -11,3 +11,17 @@ I'm not gonna officially stick a license on it because I don't care that much, b
 
 ### Is there a workshop version?
 Yes!  https://steamcommunity.com/sharedfiles/filedetails/?id=1373580329 has the exact same features as this one, even the config file!
+
+### How do I run the lottery?
+Someone recognized as an admin must type .lotto or .lottery in the chat.
+
+### Quick feature list:
+A coin flip simulator machine.  
+A double or nothing machine.  
+A time-based random number guessing machine.  
+A slot machine with a jackpot.  
+A normal slot machine.  
+An ATM system, persisting through reconnects.  
+A loan machine.  
+A loan monitor.  
+A very simple loterry machine.  

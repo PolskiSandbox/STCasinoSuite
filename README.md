@@ -1,5 +1,8 @@
 # STCasinoSuite
 
+### HEAD'S UP
+This addon is very old, and may be very bad.  Use it if you like, but don't expect perfection!
+
 ### What is it?
 STCasinoSuite is a complete casino system for Garry's Mod DarkRP.  Coming packed with everything you could need to run a casino, including loans and ATMs, STCasinoSuite is sure to satisfy.
 

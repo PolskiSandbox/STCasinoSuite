@@ -35,7 +35,7 @@ function ENT:Use(activator, caller)
 		table.insert( STC_LOTTERYPLY, caller:SteamID() )
 		local plyTab = util.TableToJSON( STC_LOTTERYPLY )
 		file.Write( "stcasino/lotterytab.txt", plyTab )
-		print("Entered the lottery")
+		--print("Entered the lottery")
 		self:EmitSound("ambient/levels/labs/coinslot1.wav")
 		cookie.Set( "STLottery", tostring( cookie.GetNumber( "STLottery" ) + STC_CONFIG.LottoTicketPrice ) )
 	end
